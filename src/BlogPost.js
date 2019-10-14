@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-// are we missing an import?
+import ColorBox from "./ColorBox.js";
+import Comment from "./Comment.js";
 
 export default class BlogPost extends Component {
   render() {
